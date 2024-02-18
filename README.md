@@ -5,3 +5,5 @@ berikut yang akan kita pelajari :
 - Kapan GitHub Ditemukan?
 - Siapa penemu Github?
 - apa itu GIt commit?
+- apa itu Git Branch?
+- Apa itu Git Base?
