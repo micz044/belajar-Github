@@ -7,3 +7,4 @@ berikut yang akan kita pelajari :
 - apa itu GIt commit?
 - apa itu Git Branch?
 - Apa itu Git Base?
+- Bagaimana melakukan Git Itu?
